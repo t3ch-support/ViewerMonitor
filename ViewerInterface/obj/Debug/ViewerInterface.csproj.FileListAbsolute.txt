@@ -1,0 +1,9 @@
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\bin\Debug\ViewerInterface.exe.config
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\bin\Debug\ViewerInterface.exe
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\bin\Debug\ViewerInterface.pdb
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\bin\Debug\Renci.SshNet.dll
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\obj\Debug\ViewerInterface.MainWindow.resources
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\obj\Debug\ViewerInterface.Properties.Resources.resources
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\obj\Debug\ViewerInterface.csproj.GenerateResource.Cache
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\obj\Debug\ViewerInterface.exe
+C:\Users\NKK\Desktop\COMPUSA\ViewerInterface\ViewerInterface\obj\Debug\ViewerInterface.pdb
